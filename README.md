@@ -1,4 +1,4 @@
-# Java-Core-diferent-task
+# Java-Core: educational topics
 Les1 - JVM, типи змінних, обгортки примітивів, базові конструкції Java;
 
 Les3 - ООП, класи, конструктори, обєкти, методи;
