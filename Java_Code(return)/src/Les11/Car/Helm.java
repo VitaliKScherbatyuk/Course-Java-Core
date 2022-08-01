@@ -3,11 +3,11 @@ package Les11.Car;
 public class Helm {
 
 	private int diamert;
-	Material material;
+	String material;
 	
-	public Helm(int diamert, Material material) {
+	public Helm(int diamert, String string) {
 		this.diamert = diamert;
-		this.material = material;
+		this.material = string;
 	}
 
 	public int getDiamert() {
@@ -18,17 +18,18 @@ public class Helm {
 		this.diamert = diamert;
 	}
 
-	public Material getMaterial() {
+	public String getMaterial() {
 		return material;
 	}
 
-	public void setMaterial(Material material) {
+	public void setMaterial(String material) {
 		this.material = material;
 	}
 
 	@Override
 	public String toString() {
 		return "Helm [diamert=" + diamert + ", material=" + material + "]";
-	}	
+	}
+
 	
 }
