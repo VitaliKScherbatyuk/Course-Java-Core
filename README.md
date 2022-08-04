@@ -1,4 +1,4 @@
-Tasks for the study programs Java Core:
+<Tasks for the study programs Java Core:>
 
 Lesson 1 - JVM, типи змінних, обгортки примітивів, базові конструкції Java;
 
